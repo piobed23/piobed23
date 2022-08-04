@@ -4,8 +4,7 @@
 
 I'm 18 years old, technical student.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piotrbednarski23/)](https://www.linkedin.com/in/piotrbednarski23/)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotrbednarski23/)
 
 ## <h2> 🛠 &nbsp;Tech Stack</h2>
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
